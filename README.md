@@ -8,6 +8,6 @@ Power BI then visually transforms this data into insightful dashboards and repor
 stakeholders with a comprehensive view of pizza sales, customer preferences, and operational trends,
 ultimately enhancing decision-making processes within the pizza business.
 
-Requirements
+Requirements:
 Ms SQL
 Power BI
